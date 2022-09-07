@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 | Libft <img width=250>| [![hkok's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6asybc7000609mk6dknlxjc/project/2479402)](https://github.com/hasankokk/42-Cursus/tree/main/libft)|
 | Born2Beroot| [![hkok's 42 Born2Beroot Score](https://badge42.vercel.app/api/v2/cl6asybc7000609mk6dknlxjc/project/2538595)](https://github.com/hasankokk)|
 | GetNextLine| [![hkok's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl6asybc7000609mk6dknlxjc/project/2515689)](https://github.com/hasankokk/42-Cursus/tree/main/get_next_line)|
-| Printf| [![hkok's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl6asybc7000609mk6dknlxjc/project/2522012)](https://github.com/hasankokk/42-Cursus/tree/main/ft_printf)|
+| Printf| [![hkok's 42 Printf Score](https://badge42.vercel.app/api/v2/cl6asybc7000609mk6dknlxjc/project/2522012)](https://github.com/hasankokk/42-Cursus/tree/main/ft_printf)|
 | Mini-Talk| [![hkok's 42 Mini-Talk Score](https://badge42.vercel.app/api/v2/cl6asybc7000609mk6dknlxjc/project/2694865)](https://github.com/hasankokk)|
-
+| Push-swap| [![hkok's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6asybc7000609mk6dknlxjc/project/2711551)](https://github.com/hasankokk/42-Cursus/tree/main/push_swap)
